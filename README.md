@@ -5,7 +5,7 @@
    <img src="https://codigotlaxcala.com/wp-content/uploads/2018/03/matematicas-tumblr-gif-10.gif">
   <ul>
   <li>
-Desde pequeño me encanta la matematica, disfruto el entender las reglas en las que se basa la ciencia; y la matematia abarca mucho la ciencia en general, como la fisica o la quimica. La programacion me es muy divertida, el entender como ciertos algoritmos y patrones crean cosas que normalmente usamos y vemos en aplicaciones y paginas web.
+
     Since I was little I love mathematics, I enjoy understanding the rules on which science is based; and mathematics covers a lot of science in general, such as physics or chemistry. Programming is a lot of fun for me, understanding how certain algorithms and patterns create things that we normally use and see in applications and web pages.
   </li>
   <li>
