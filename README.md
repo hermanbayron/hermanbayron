@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Herman Gonzalez</h1>
+<body style="{ background: #ffA500; }">
+  <h1 align="center">Hi 👋, I'm Herman Gonzalez</h1>
 </hr>
 
 <p align="center">A passionate Full Stack developer from Uruguay</p>
@@ -26,3 +27,4 @@
 <a href="https://postman.com" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="html5" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.sqlalchemy.org/" rel="nofollow" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgChy2Ik5ZO-jv-3l01SgkTEs_xbs4AqbYE3-qn3Xcz4LjN5LWirqTN97fRdNFUanZhwc&usqp=CAU" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<body/>
