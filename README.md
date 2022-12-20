@@ -5,7 +5,7 @@
    <img src="https://codigotlaxcala.com/wp-content/uploads/2018/03/matematicas-tumblr-gif-10.gif" height="200" width="450" style="max-width: 100%;" align="center">
   <ul>
   <li>
-    When I was a child I love mathematics, I enjoy understanding the rules on which science is based; and mathematics covers a lot of science in general, such as physics or chemistry.  </br> Programming is a lot of fun for me, understanding how certain algorithms and patterns create things that we normally use and see in applications and web pages.
+    When I was a child I love mathematics, I enjoy understanding the rules on which science is based; and mathematics covers a lot of science in general, such as physics or chemistry.  </br> </br> Programming is a lot of fun for me, understanding how certain algorithms and patterns create things that we normally use and see in applications and web pages.
   </li>
   <li>
   🌱 I’m currently learning Full Stack development with React, Javascript, Node, Flask, Python
