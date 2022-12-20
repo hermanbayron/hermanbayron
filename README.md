@@ -6,7 +6,7 @@
   <ul>
   <li>
 
-    Since I was little I love mathematics, I enjoy understanding the rules on which science is based; and mathematics covers a lot of science in general, such as physics or chemistry. Programming is a lot of fun for me, understanding how certain algorithms and patterns create things that we normally use and see in applications and web pages.
+    When I was a child I love mathematics, I enjoy understanding the rules on which science is based; and mathematics covers a lot of science in general, such as physics or chemistry. Programming is a lot of fun for me, understanding how certain algorithms and patterns create things that we normally use and see in applications and web pages.
   </li>
   <li>
   🌱 I’m currently learning Full Stack development with React, Javascript, Node, Flask, Python
