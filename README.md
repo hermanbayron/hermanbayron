@@ -2,7 +2,7 @@
   </hr>
 
   <p align="center">A passionate Full Stack developer from Uruguay</p>
-   <img src="https://codigotlaxcala.com/wp-content/uploads/2018/03/matematicas-tumblr-gif-10.gif">
+   <img src="https://codigotlaxcala.com/wp-content/uploads/2018/03/matematicas-tumblr-gif-10.gif" height="200" width="450" style="max-width: 100%;" style="display: flex, justify-content: center;">
   <ul>
   <li>
 
